@@ -1,4 +1,5 @@
 # Mandarain
+```
 你應該很快樂
 再也沒有我的打擾了
 我有時也會覺得
@@ -53,7 +54,10 @@
 以為死心塌地 早把你
 把你忘了
 
+```
+
 # English
+```
 You should be /quite happy
 No more troubles, no more of me
 Sometimes I/ still wonder
@@ -108,7 +112,10 @@ How long have I been lying to me,
 Thinking desperately/ I'd already......
 Left you behind
 
+```
+
 # Mandarain-English-Mixed
+```
 你應該很快樂
 You should be/ quite happy
 再也沒有我的打擾了
@@ -206,3 +213,5 @@ How long have I been lying to me,
 Thinking desperately/ I'd already......
 把你忘了
 Left you behind
+
+```
